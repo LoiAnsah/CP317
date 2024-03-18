@@ -1,0 +1,20 @@
+1234,  TV,  20,  $799.9,  C,  Fujitsu
+1234,  TV,  5,  $1499.99,  A,  LG Electronics
+1234,  TV,  5,  $699.7,  B,  Acer
+1234,  TV,  5,  $599.3,  B,  AMD
+1516,  Mouse,  30,  $99.5,  A,  RedPark Ltd.
+1516,  Mouse,  25,  $69.9,  C,  MSI
+1516,  Mouse,  50,  $49.4,  B,  Amazon
+1516,  Mouse,  20,  $69.5,  A,  Intel
+2591,  Camera,  50,  $799.9,  B,  Samsung
+2591,  Camera,  30,  $179.5,  C,  Xerox Inc.
+2591,  Camera,  10,  $499.9,  B,  Acme Corporation
+2591,  Camera,  50,  $449.4,  A,  IBM
+3034,  Telephone,  40,  $299.99,  A,  Panasonic
+3034,  Telephone,  25,  $99.9,  A,  Philips
+3034,  Telephone,  15,  $169.99,  A,  Microsoft
+3034,  Telephone,  20,  $59.5,  A,  Dell
+3374,  Laptop,  30,  $1799.9,  A,  Toshiba
+3374,  Laptop,  10,  $1399.2,  B,  Sharp
+3374,  Laptop,  20,  $1099.1,  A,  Apple
+3374,  Laptop,  15,  $1369.9,  A,  Qualcomm
